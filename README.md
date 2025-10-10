@@ -3,7 +3,7 @@
 <!-- endhide -->
 
 <p align="center">
-    <img height="450" src="https://raw.githubusercontent.com/4GeeksAcademy/react-native-hello/main/assets/4geeks.png" alt="RN Movies Preview" />
+    <img height="450" src="https://github.com/breatheco-de/movie-catalog-with-react-native/blob/main/assets/img-movies-app.png?raw=true" alt="RN Movies Preview" />
 </p>
 
 Create a mobile app to explore a **movie catalog**, view **details**, and navigate between **categories**, practicing **navigation with Expo Router** using **Tabs** and **Stack**. The project uses **local data** to focus on **navigation and parameter typing**.

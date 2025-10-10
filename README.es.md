@@ -3,7 +3,7 @@
 <!-- endhide -->
 
 <p align="center">
-  <img height="450" src="https://raw.githubusercontent.com/4GeeksAcademy/react-native-hello/main/assets/4geeks.png" alt="RN Movies Preview" />
+  <img height="450" src="https://github.com/breatheco-de/movie-catalog-with-react-native/blob/main/assets/img-movies-app.png?raw=true" alt="RN Movies Preview" />
 </p>
 
 Crea una aplicación móvil que permita explorar un **catálogo de películas**, ver **detalles** y navegar entre **categorías**, practicando **navegación con Expo Router** usando **Tabs** y **Stack**. El proyecto usa **datos locales** para enfocarse en la **navegación y el tipado de parámetros**.

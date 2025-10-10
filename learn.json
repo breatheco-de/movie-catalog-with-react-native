@@ -1,0 +1,19 @@
+{
+  "gitpod": true,
+  "title": {
+    "us": "Movie Catalogue with Expo Router",
+    "es": "Catálogo de Películas con Expo Router"
+  },
+  "slug": "movies-app-with-expo-router",
+  "template": "https://github.com/4GeeksAcademy/react-native-hello",
+  "difficulty": "intermediate",
+  "preview": "https://github.com/breatheco-de/movie-catalog-with-react-native/blob/main/assets/4geeks.png?raw=true",
+  "duration": 2,
+  "technologies": ["react-native", "typescript", "expo", "expo-router"],
+  "description": {
+    "us": "Build a mobile app that lets users explore a movie catalogue, view details, and navigate through different categories using Expo Router with Tabs and Stack. Work entirely with local data from data/movies.ts (no APIs, no global state). Perfect to master navigation and parameter typing in React Native.",
+    "es": "Crea una app móvil que permita explorar un catálogo de películas, ver detalles y navegar entre diferentes categorías usando Expo Router con Tabs y Stack. Trabaja completamente con datos locales desde data/movies.ts (sin APIs ni estado global). Perfecta para dominar la navegación y el tipado de parámetros en React Native."
+  },
+  "autoPlay": false,
+  "projectType": "project"
+}
