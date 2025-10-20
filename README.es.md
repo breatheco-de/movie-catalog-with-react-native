@@ -1,5 +1,5 @@
 <!-- hide -->
-# Catálogo de Películas con Expo Router
+# Catálogo de Películas
 <!-- endhide -->
 
 <p align="center">
