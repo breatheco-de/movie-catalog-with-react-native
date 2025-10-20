@@ -17,7 +17,7 @@ The project uses **local data** (no API) to focus on **navigation architecture**
 1. Clone the following template to your computer:
 
 ```bash
-https://github.com/4GeeksAcademy/react-native-cli-hello
+https://github.com/breatheco-de/react-native-cli-hello
 ```
 
 2. Install JS dependencies:

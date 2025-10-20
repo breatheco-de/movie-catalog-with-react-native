@@ -17,7 +17,7 @@ El proyecto usa **datos locales** (sin API) para enfocarse en la **arquitectura 
 1. Clona la siguiente plantilla en tu computadora
 
 ```bash
-https://github.com/4GeeksAcademy/react-native-cli-hello
+https://github.com/breatheco-de/react-native-cli-hello
 ```
 
 2. Instala dependencias JS:
