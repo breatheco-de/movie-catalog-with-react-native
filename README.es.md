@@ -15,7 +15,7 @@ Crea una aplicación móvil que permita explorar un **catálogo de películas**,
 1. Clona la siguiente plantilla en tu computadora
 
 ```bash
-https://github.com/4GeeksAcademy/react-native-hello
+https://github.com/breatheco-de/react-native-cli-hello
 ```
 
 2. Instala dependencias
