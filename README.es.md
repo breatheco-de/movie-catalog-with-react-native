@@ -3,7 +3,7 @@
 <!-- endhide -->
 
 <p align="center">
-  <img height="450" src="./assets/img-movies-app.png?raw=true" alt="RN Movies Preview" />
+  <img height="450" src="./assets/img-movies-app.png" alt="RN Movies Preview" />
 </p>
 
 Crea una aplicación móvil para explorar un **catálogo de películas**, ver **detalles** y navegar entre **categorías**, practicando **navegación con React Navigation** usando **Bottom Tabs** y **Native Stack**.  
