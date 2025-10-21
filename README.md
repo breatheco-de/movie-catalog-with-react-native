@@ -2,9 +2,7 @@
 # Movie Catalog
 <!-- endhide -->
 
-<p align="center">
-    <img height="450" src="https://github.com/breatheco-de/movie-catalog-with-react-native/blob/main/assets/img-movies-app.png?raw=true" alt="RN Movies Preview" />
-</p>
+![RN Movies Preview](./assets/img-movies-app.png)
 
 Create a mobile app to explore a **movie catalog**, view **details**, and navigate between **categories**, practicing **navigation with React Navigation** using **Bottom Tabs** and **Native Stack**.
 
@@ -81,7 +79,7 @@ export default function App() {
 
 ## 🗂️ Suggested project structure
 
-```
+```text
 ├─ src/
 │  ├─ navigation/
 │  │  ├─ TabsNavigator.tsx         # Main tabs
