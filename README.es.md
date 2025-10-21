@@ -2,9 +2,9 @@
 # Catálogo de Películas
 <!-- endhide -->
 
-<p align="center">
-  <img height="450" src="./assets/img-movies-app.png" alt="RN Movies Preview" />
-</p>
+
+![RN Movies Preview](./assets/img-movies-app.png")
+
 
 Crea una aplicación móvil para explorar un **catálogo de películas**, ver **detalles** y navegar entre **categorías**, practicando **navegación con React Navigation** usando **Bottom Tabs** y **Native Stack**.  
 
