@@ -5,7 +5,7 @@
     "es": "Catálogo de Películas"
   },
   "slug": "movies-app-with-expo-router",
-  "template": "https://github.com/4GeeksAcademy/react-native-cli-hello",
+  "template": "https://github.com/breatheco-de/react-native-cli-hello",
   "difficulty": "intermediate",
   "preview": "https://github.com/breatheco-de/movie-catalog-with-react-native/blob/main/assets/4geeks.png?raw=true",
   "duration": 2,
