@@ -8,7 +8,7 @@ Create a mobile app to explore a **movie catalog**, view **details**, and naviga
 
 The project uses **local data** (no API) to focus on **navigation architecture**, **parameter typing**, and **screen composition**.
 
-<onlyfor saas="false" withBanner="false">
+<onlyfor>
 
 ## 🌱 How to start this project
 
