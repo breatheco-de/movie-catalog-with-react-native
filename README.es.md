@@ -10,7 +10,7 @@ Crea una aplicación móvil para explorar un **catálogo de películas**, ver **
 
 El proyecto usa **datos locales** (sin API) para enfocarse en la **arquitectura de navegación**, el **tipado de parámetros** y la **composición de pantallas**.
 
-<onlyfor saas="false" withBanner="false">
+<onlyfor>
   
 ## 🌱 Cómo comenzar este proyecto
 
