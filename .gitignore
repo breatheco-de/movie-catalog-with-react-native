@@ -1,36 +1,70 @@
-# env
-.env.development*
-.env
-!.env.development.sample
-
-# Crash log files
-crash.log
-crash.*.log
-
 # OSX
-#
 .DS_Store
 
-# Android/IntelliJ
-#
-build/
-android/keystores/*
-
-# node.js
-#
+# Node
 node_modules/
 npm-debug.log
+yarn-error.log
+package-lock.json
 
-# Bundle artifact
+# React Native
+.expo/
+.expo-shared/
+.bundle/
+dist/
+.expo/
 *.jsbundle
+*.map
 
-# Ruby / CocoaPods
-**/Pods/
-/vendor/bundle/
-
-# Temporary files created by Metro to check the health of the file watcher
+# Metro cache
+.metro/
+.metro-cache/
 .metro-health-check*
 
-# testing
-/coverage
-.nyc_output
+# iOS
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/*.xcodeproj/project.xcworkspace/
+ios/*.xcworkspace/xcuserdata/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/xcuserdata/*
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/captures/
+*.apk
+*.keystore
+*.jks
+
+# Gradle
+.gradle/
+build/
+**/gradlew.bat
+**/gradle-wrapper.jar
+
+# Ruby
+vendor/bundle/
+.ruby-version
+
+# Logs
+*.log
+crash.log
+crash.*.log
+*.pid
+
+# Env files
+.env
+.env.*
+!.env.example
+!.env.development.sample
+
+# Coverage
+coverage/
+.nyc_output/
+
+# VSCode
+.vscode/
