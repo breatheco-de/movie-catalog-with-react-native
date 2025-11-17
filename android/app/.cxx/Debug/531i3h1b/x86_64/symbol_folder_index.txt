@@ -1,0 +1,1 @@
+/Users/rosinni/Documents/react-native-syllabus/react-native-cli-hello/android/app/build/intermediates/cxx/Debug/531i3h1b/obj/x86_64
